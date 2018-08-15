@@ -1,0 +1,3 @@
+DBAICO ICON   res\dbase.ico
+true   BITMAP res\br_ok.bmp
+false  BITMAP res\br_no.bmp
